@@ -1,2 +1,2 @@
 # github-workflow
-There is nothing permanent, except change  - some changes before we try again.
+There is nothing permanent, except change
